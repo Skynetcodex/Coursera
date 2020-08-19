@@ -1,0 +1,19 @@
+#chicken,#beef,#sushi,nav{
+    background-color: rgba(138, 135, 135, 0.7);
+    padding-top: 1em; padding-bottom: 1em;
+    color: black;}
+
+#food{
+    font-weight: 700;
+    font-size: xx-large;}
+
+a{
+    color: black;
+    font-size: xx-large;}
+
+#thenav{
+    background-color: honeydew;
+    border: solid black 2px;}
+
+hr{
+    border: solid black 1px;}
